@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application6</string>
+    <string name="TextDown">Башня, впоследствии ставшая символом Парижа, была построена в 1889 году и первоначально задумывалась как временное сооружение, служившее входной аркой парижской Всемирной выставки 1889 года.</string>
+    <string name="time">Сегодня в 20:23</string>
+    <string name="User">Кругосветка</string>
+    <string name="likes">likes</string>
+    <string name="share">TextView</string>
+    <string name="views">TextView</string>
+</resources>
